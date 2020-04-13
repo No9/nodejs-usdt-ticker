@@ -1,0 +1,2 @@
+usdt:/proc/$container_pid/root/ticker:testapp:testprobe 
+{ printf("%u\n", arg0) }
